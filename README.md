@@ -1,5 +1,4 @@
-# Danny-s_-Diner_SQL_Project
-Danny's Diner
+# Danny's Diner
 
 Danny was a proud owner of restaurant "Danny's Diner" where the restaurant served 3 of this favorite dishes Sushi, Ramen, Curry. There Restaurant was going well. Danny wanted the restaurant to stay afloat. 
 
